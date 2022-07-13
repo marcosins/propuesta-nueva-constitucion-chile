@@ -1038,6 +1038,7 @@ Los colegios profesionales son corporaciones de derecho público, nacionales y a
 
 ### Artículo 76
 1. Toda persona tiene derecho a presentar peticiones, exposiciones o reclamaciones ante cualquier autoridad del Estado.
+
 2. La ley regulará los plazos y la forma en que la autoridad deberá dar respuesta a la solicitud, además de la manera en que se garantizará el principio de plurilingüismo en el ejercicio de este derecho.
 
 ### Artículo 77
@@ -1162,6 +1163,7 @@ El Estado fomenta el acceso al libro y al goce de la lectura a través de planes
 
 ### Artículo 97
 1. La Constitución garantiza la libertad de investigación.
+
 2. Es deber del Estado estimular, promover y fortalecer el desarrollo de la investigación científica y tecnológica en todas las áreas del conocimiento, contribuyendo así al enriquecimiento sociocultural del país y al mejoramiento de las condiciones de vida de sus habitantes.
 
 3. El Estado generará, de forma independiente y descentralizada, las condiciones para el desarrollo de la investigación científica transdisciplinaria en materias relevantes para el resguardo de la calidad de vida de la población y el equilibrio ecosistémico. Además, realizará el monitoreo permanente de los riesgos medioambientales y sanitarios que afecten la salud de las comunidades y ecosistemas del país.
@@ -1582,14 +1584,11 @@ La Defensoría de la Naturaleza tendrá las siguientes atribuciones:
 
    - b) Formular recomendaciones en las materias de su competencia.
 
-   - c) Tramitar y hacer seguimiento de los reclamos sobre vulneraciones de
-derechos ambientales y derivar en su caso.
+   - c) Tramitar y hacer seguimiento de los reclamos sobre vulneraciones de derechos ambientales y derivar en su caso.
 
-   - d) Deducir acciones constitucionales y legales cuando se vulneren derechos
-ambientales y de la naturaleza.
+   - d) Deducir acciones constitucionales y legales cuando se vulneren derechos ambientales y de la naturaleza.
 
-   - e) Promover la formación y educación en derechos ambientales y de la
-naturaleza.
+   - e) Promover la formación y educación en derechos ambientales y de la naturaleza.
 
    - f) Las demás que le encomienden la Constitución y la ley.
 
@@ -1641,8 +1640,7 @@ Se podrán someter a referéndum las materias de competencia de los gobiernos re
 
 2. Se contará con un plazo de ciento ochenta días desde su registro ante el Servicio Electoral para que la propuesta sea conocida por la ciudadanía y pueda reunir los patrocinios exigidos. En caso de reunir el apoyo requerido, el Servicio Electoral remitirá la propuesta al Congreso, para que este dé inicio al proceso de formación de ley. Las iniciativas populares de ley ingresarán a la agenda legislativa con la urgencia determinada por la ley. El Poder Legislativo informará cada seis meses sobre el avance de la tramitación de estas iniciativas.
 
-3. La iniciativa popular de ley no podrá referirse a tributos, a la administración
-presupuestaria del Estado ni limitar derechos fundamentales.
+3. La iniciativa popular de ley no podrá referirse a tributos, a la administración presupuestaria del Estado ni limitar derechos fundamentales.
 
 ### Artículo 158
 1. Un grupo de personas habilitadas para sufragar, equivalente al cinco por ciento del último padrón electoral, podrá presentar una iniciativa de derogación total o parcial de una o más leyes promulgadas bajo la vigencia de esta Constitución para que sea votada mediante referéndum nacional.
@@ -1809,8 +1807,7 @@ Una comisión fijará las remuneraciones de las autoridades de elección popular
 
 2. El Estado usará sus recursos de forma razonable, óptima, eficaz y eficiente, en beneficio de las personas y en función de los objetivos que la Constitución y las leyes les impongan.
 
-3. Sin perjuicio de los distintos tipos de responsabilidad a que pueda dar lugar el incumplimiento de las obligaciones en materia financiera, la ley deberá establecer mecanismos para un resarcimiento efectivo del patrimonio
-público.
+3. Sin perjuicio de los distintos tipos de responsabilidad a que pueda dar lugar el incumplimiento de las obligaciones en materia financiera, la ley deberá establecer mecanismos para un resarcimiento efectivo del patrimonio público.
 
 ### Artículo 184
 1. Es deber del Estado en el ámbito de sus competencias financieras, establecer una política permanente de desarrollo sostenible y armónico con la naturaleza.
@@ -2147,7 +2144,9 @@ Son atribuciones esenciales de los gobiernos regionales las siguientes:
 
 ### Artículo 225
 1. La asamblea regional es el órgano colegiado de representación regional que está dotado de potestades normativas, resolutivas y fiscalizadoras.
+
 2. Una ley determinará los requisitos generales para acceder al cargo de asambleísta regional y su número en proporción a la población regional.
+
 3. Quienes desempeñen el cargo de asambleísta regional ejercerán sus funciones por el término de cuatro años, pudiendo reelegirse consecutivamente solo una vez para el período inmediatamente siguiente. En este caso, se considerará que han ejercido el cargo durante un período cuando hayan cumplido más de la mitad de su mandato.
 
 ### Artículo 226
@@ -2339,23 +2338,17 @@ Las entidades territoriales tendrán las siguientes fuentes de ingresos:
 
 ### Artículo 250
 Los gobiernos regionales y locales podrán emitir deuda en conformidad con lo que disponga la ley, general o especial, la que establecerá al menos las siguientes regulaciones:
-   - a) La prohibición de destinar los fondos recaudados mediante emisión de
-deuda o empréstitos al financiamiento de gasto corriente.
+   - a) La prohibición de destinar los fondos recaudados mediante emisión de deuda o empréstitos al financiamiento de gasto corriente.
 
-   - b) Los mecanismos que garanticen que la deuda sea íntegra y debidamente
-servida por el deudor.
+   - b) Los mecanismos que garanticen que la deuda sea íntegra y debidamente servida por el deudor.
 
    - c) La prohibición del establecimiento de garantías o cauciones del fisco.
 
-   - d) El establecimiento de límites máximos de endeudamiento como
-porcentaje del presupuesto anual del gobierno regional y municipal
-respectivo y la obligación de mantener una clasificación de riesgo
-actualizada.
+   - d) El establecimiento de límites máximos de endeudamiento como porcentaje del presupuesto anual del gobierno regional y municipal respectivo y la obligación de mantener una clasificación de riesgo actualizada.
 
    - e) Restricciones en períodos electorales.
 
-   - f) Estos recursos no podrán ser destinados a remuneraciones ni a gasto
-corriente.
+   - f) Estos recursos no podrán ser destinados a remuneraciones ni a gasto corriente.
 
 ---
 # CAPÍTULO VII: PODER LEGISLATIVO
@@ -2494,8 +2487,7 @@ Son atribuciones exclusivas del Congreso de Diputadas y Diputados:
 
 ### Artículo 261
 1. Cesará en el cargo la diputada, el diputado o representante regional:
-   - a) Que se ausente del país por más de treinta días sin permiso de la
-corporación respectiva o, en receso de esta, de su Mesa Directiva.
+   - a) Que se ausente del país por más de treinta días sin permiso de la corporación respectiva o, en receso de esta, de su Mesa Directiva.
 
    - b) Que, durante su ejercicio, celebre o caucione contratos con el Estado, o actúe como procuradora o procurador o agente en gestiones particulares de carácter administrativo, en la provisión de empleos públicos, consejerías, funciones o comisiones de similar naturaleza. Esta inhabilidad tendrá lugar sea que actúe por sí o por interpósita persona, natural o jurídica.
 
@@ -2733,7 +2725,9 @@ Las leyes referidas a la organización, el funcionamiento y los procedimientos d
 
 ### Artículo 278
 1. El Congreso de Diputadas y Diputados y la Cámara de las Regiones contarán con una Unidad Técnica dependiente administrativamente del Congreso.
+
 2. Su Secretaría Legislativa estará encargada de asesorar en los aspectos jurídicos de las leyes que tramiten. Podrá, asimismo, emitir informes sobre ámbitos de la legislación que hayan caído en desuso o que presenten problemas técnicos.
+
 3. Su Secretaría de Presupuestos estará encargada de estudiar el efecto presupuestario y fiscal de los proyectos de ley y de asesorar a diputadas, diputados y representantes regionales durante la tramitación de la Ley de Presupuestos.
 
 ---
@@ -2741,6 +2735,7 @@ Las leyes referidas a la organización, el funcionamiento y los procedimientos d
 
 ### Artículo 279
 1. El gobierno y la administración del Estado corresponden a la Presidenta o al Presidente de la República, quien ejerce la jefatura de Estado y la jefatura de Gobierno.
+
 2. El 5 de julio de cada año dará cuenta al país del estado administrativo y político de la república ante el Congreso de Diputadas y Diputados y la Cámara de las Regiones, en sesión conjunta.
 
 ### Artículo 280
@@ -2794,43 +2789,43 @@ Cuando por enfermedad, ausencia del territorio de la república u otro grave mot
 
 ### Artículo 287
 Son atribuciones de quien ejerce la Presidencia de la República:
-a) Cumplir y hacer cumplir la Constitución, las leyes y los tratados internacionales, de acuerdo con sus competencias y atribuciones.
+   - a) Cumplir y hacer cumplir la Constitución, las leyes y los tratados internacionales, de acuerdo con sus competencias y atribuciones.
 
-b) Dirigir la Administración del Estado.
+   - b) Dirigir la Administración del Estado.
 
-c) Nombrar y remover a las ministras y ministros de Estado, a las subsecretarias y subsecretarios y a las demás funcionarias y funcionarios que corresponda, de acuerdo con la Constitución y la ley. Estos cargos son de su exclusiva confianza y quienes los desempeñen se mantendrán en sus puestos mientras cuenten con ella.
+   - c) Nombrar y remover a las ministras y ministros de Estado, a las subsecretarias y subsecretarios y a las demás funcionarias y funcionarios que corresponda, de acuerdo con la Constitución y la ley. Estos cargos son de su exclusiva confianza y quienes los desempeñen se mantendrán en sus puestos mientras cuenten con ella.
 
-d) Conducir las relaciones exteriores, suscribir y ratificar los tratados, convenios o acuerdos internacionales, nombrar y remover a embajadoras y embajadores y jefas y jefes de misiones diplomáticas.
+   - d) Conducir las relaciones exteriores, suscribir y ratificar los tratados, convenios o acuerdos internacionales, nombrar y remover a embajadoras y embajadores y jefas y jefes de misiones diplomáticas.
 
-e) Declarar los estados de excepción constitucional en los casos y formas que se señalan en la Constitución y la ley.
+   - e) Declarar los estados de excepción constitucional en los casos y formas que se señalan en la Constitución y la ley.
 
-f) Concurrir a la formación de las leyes y promulgarlas, conforme a lo que establece la Constitución.
+   - f) Concurrir a la formación de las leyes y promulgarlas, conforme a lo que establece la Constitución.
 
-g) Dictar decretos con fuerza de ley, previa delegación del Congreso de Diputadas y Diputados, conforme a lo que se establece en la Constitución.
+   - g) Dictar decretos con fuerza de ley, previa delegación del Congreso de Diputadas y Diputados, conforme a lo que se establece en la Constitución.
 
-h) Ejercer la potestad reglamentaria de conformidad con la Constitución y la ley.
+   - h) Ejercer la potestad reglamentaria de conformidad con la Constitución y la ley.
 
-i) Ejercer permanentemente la jefatura suprema de las Fuerzas Armadas, disponerlas, organizarlas y distribuirlas para su desarrollo y empleo conjunto.
+   - i) Ejercer permanentemente la jefatura suprema de las Fuerzas Armadas, disponerlas, organizarlas y distribuirlas para su desarrollo y empleo conjunto.
 
-j) Designar y remover al jefe del Estado Mayor Conjunto, a los comandantes en jefe de las Fuerzas Armadas, y disponer los nombramientos, ascensos y retiros de los oficiales de las Fuerzas Armadas.
+   - j) Designar y remover al jefe del Estado Mayor Conjunto, a los comandantes en jefe de las Fuerzas Armadas, y disponer los nombramientos, ascensos y retiros de los oficiales de las Fuerzas Armadas.
 
-k) Conducir la seguridad pública y designar y remover a los integrantes del alto mando policial.
+   - k) Conducir la seguridad pública y designar y remover a los integrantes del alto mando policial.
 
-l) Nombrar a la contralora o al contralor general conforme a lo dispuesto en la Constitución.
+   - l) Nombrar a la contralora o al contralor general conforme a lo dispuesto en la Constitución.
 
-m) Participar en los nombramientos de las demás autoridades en conformidad con lo establecido en la Constitución.
+   - m) Participar en los nombramientos de las demás autoridades en conformidad con lo establecido en la Constitución.
 
-n) Conceder indultos particulares, salvo en crímenes de guerra y de lesa humanidad.
+   - n) Conceder indultos particulares, salvo en crímenes de guerra y de lesa humanidad.
 
-ñ) Velar por la recaudación de las rentas públicas y decretar su inversión con arreglo a la ley. La Presidenta o el Presidente de la República, con la firma de todas las ministras y los ministros de Estado, podrá decretar pagos no autorizados por ley, para atender necesidades impostergables derivadas de calamidades públicas, agresión exterior, conmoción interior, grave daño o peligro para la seguridad del país o el agotamiento de los recursos destinados a mantener servicios que no puedan paralizarse sin serio perjuicio para el país. El total de los giros que se hagan con estos objetos no podrá exceder anualmente del dos por ciento (2%) del monto de los gastos que autorice la Ley de Presupuestos. Se podrá contratar empleados con cargo a esta misma ley, pero sin que el ítem respectivo pueda ser incrementado ni disminuido mediante traspasos. Las ministras y los ministros de Estado o funcionarios que autoricen o den curso a gastos que contravengan lo dispuesto en esta letra serán responsables, solidaria y personalmente, de su reintegro, y culpables del delito de malversación de caudales públicos.
+   - ñ) Velar por la recaudación de las rentas públicas y decretar su inversión con arreglo a la ley. La Presidenta o el Presidente de la República, con la firma de todas las ministras y los ministros de Estado, podrá decretar pagos no autorizados por ley, para atender necesidades impostergables derivadas de calamidades públicas, agresión exterior, conmoción interior, grave daño o peligro para la seguridad del país o el agotamiento de los recursos destinados a mantener servicios que no puedan paralizarse sin serio perjuicio para el país. El total de los giros que se hagan con estos objetos no podrá exceder anualmente del dos por ciento (2%) del monto de los gastos que autorice la Ley de Presupuestos. Se podrá contratar empleados con cargo a esta misma ley, pero sin que el ítem respectivo pueda ser incrementado ni disminuido mediante traspasos. Las ministras y los ministros de Estado o funcionarios que autoricen o den curso a gastos que contravengan lo dispuesto en esta letra serán responsables, solidaria y personalmente, de su reintegro, y culpables del delito de malversación de caudales públicos.
 
-o) Convocar referendos, plebiscitos y consultas en los casos previstos en esta Constitución.
+   - o) Convocar referendos, plebiscitos y consultas en los casos previstos en esta Constitución.
 
-p) Presentar anualmente el proyecto de Ley de Presupuestos.
+   - p) Presentar anualmente el proyecto de Ley de Presupuestos.
 
-q) Pedir, indicando los motivos, que se cite a sesión especial al Congreso de Diputadas y Diputados o a la Cámara de las Regiones. En tal caso, la sesión deberá celebrarse a la brevedad posible.
+   - q) Pedir, indicando los motivos, que se cite a sesión especial al Congreso de Diputadas y Diputados o a la Cámara de las Regiones. En tal caso, la sesión deberá celebrarse a la brevedad posible.
 
-r) Las demás establecidas en la Constitución y la ley.
+   - r) Las demás establecidas en la Constitución y la ley.
 
 ### Artículo 288
 1. Quien ejerza la Presidencia de la República tiene la potestad de dictar aquellos reglamentos, decretos e instrucciones que considere necesarios para la ejecución de las leyes.
@@ -2966,8 +2961,7 @@ La designación de quienes representen a los ministerios y servicios públicos c
 4. La Presidenta o el Presidente de la República podrá solicitar la prórroga del estado de catástrofe, para lo cual requerirá la aprobación, en sesión conjunta,
 de la mayoría de integrantes en ejercicio del Congreso de Diputadas y Diputados y de la Cámara de las Regiones.
 
-5. Por la declaración del estado de catástrofe, la Presidenta o el Presidente de la República podrá restringir la libertad de circulación y el derecho de reunión.
-Podrá, asimismo, disponer requisiciones de bienes, establecer limitaciones al ejercicio del derecho de propiedad y adoptar todas las medidas extraordinarias de carácter legal y administrativo que sean necesarias para el pronto restablecimiento de la normalidad en la zona afectada.
+5. Por la declaración del estado de catástrofe, la Presidenta o el Presidente de la República podrá restringir la libertad de circulación y el derecho de reunión. Podrá, asimismo, disponer requisiciones de bienes, establecer limitaciones al ejercicio del derecho de propiedad y adoptar todas las medidas extraordinarias de carácter legal y administrativo que sean necesarias para el pronto restablecimiento de la normalidad en la zona afectada.
 
 ### Artículo 303
 1. Los actos de la Presidenta o del Presidente de la República o de la jefa o del jefe de estado de excepción que tengan por fundamento la declaración del estado de excepción constitucional deberán señalar expresamente los derechos constitucionales que suspendan o restrinjan.
@@ -3008,6 +3002,7 @@ Los tribunales de justicia se estructuran conforme al principio de unidad jurisd
 
 ### Artículo 309
 1. El Estado reconoce los sistemas jurídicos de los pueblos y naciones indígenas, los que en virtud de su derecho a la libre determinación coexisten coordinados en un plano de igualdad con el Sistema Nacional de Justicia. Estos deberán respetar los derechos fundamentales que establecen esta Constitución y los tratados e instrumentos internacionales sobre derechos humanos de los que Chile es parte.
+
 2. La ley determinará los mecanismos de coordinación, de cooperación y de resolución de conflictos de competencia entre los sistemas jurídicos indígenas y las entidades estatales.
 
 ### Artículo 310
@@ -3064,6 +3059,7 @@ Las juezas y los jueces cesan en sus cargos por cumplir los setenta años de eda
 
 ### Artículo 320
 1. El acceso a la función jurisdiccional será gratuito, sin perjuicio de las actuaciones judiciales y sanciones procesales establecidas por la ley.
+
 2. La justicia arbitral será siempre voluntaria. La ley no podrá establecer arbitrajes forzosos.
 
 ### Artículo 321
@@ -3297,8 +3293,7 @@ Todos los órganos autónomos se rigen por el principio de paridad. Se promueve 
 4. La ley establecerá la organización, el funcionamiento, la planta, los procedimientos y las demás atribuciones de la Contraloría General de la República.
 
 ### Artículo 352
-1. En el ejercicio del control de constitucionalidad y legalidad, la Contraloría General tomará razón de los decretos, resoluciones y otros actos administrativos o representará su ilegalidad. Deberá darles curso cuando la Presidenta o el Presidente de la República insista con la firma de todas sus ministras y ministros, y enviará copia de los respectivos decretos al Congreso
-de Diputadas y Diputados.
+1. En el ejercicio del control de constitucionalidad y legalidad, la Contraloría General tomará razón de los decretos, resoluciones y otros actos administrativos o representará su ilegalidad. Deberá darles curso cuando la Presidenta o el Presidente de la República insista con la firma de todas sus ministras y ministros, y enviará copia de los respectivos decretos al Congreso de Diputadas y Diputados.
 
 2. En ningún caso dará curso a los decretos de gastos que excedan el límite señalado en la Constitución o la ley y remitirá copia íntegra de los antecedentes al Congreso de Diputadas y Diputados.
 
@@ -3320,8 +3315,7 @@ de Diputadas y Diputados.
 ### Artículo 354
 1. La Contraloría General de la República podrá emitir dictámenes obligatorios para toda autoridad, funcionario o trabajador de cualquier órgano integrante de la Administración del Estado, de las regiones y de las comunas, incluyendo los directivos de empresas públicas o sociedades en las que tenga participación el Estado.
 
-2. Los órganos de la Administración del Estado, los gobiernos regionales y comunales, los órganos autónomos, las empresas públicas, las sociedades en que el Estado tenga participación, las personas jurídicas que dispongan de recursos fiscales o administren bienes públicos y los demás que defina la ley estarán sujetos a la fiscalización y auditorías de la Contraloría General de la
-República. La ley regulará el ejercicio de estas potestades fiscalizadoras y auditoras.
+2. Los órganos de la Administración del Estado, los gobiernos regionales y comunales, los órganos autónomos, las empresas públicas, las sociedades en que el Estado tenga participación, las personas jurídicas que dispongan de recursos fiscales o administren bienes públicos y los demás que defina la ley estarán sujetos a la fiscalización y auditorías de la Contraloría General de la República. La ley regulará el ejercicio de estas potestades fiscalizadoras y auditoras.
 
 ### Artículo 355
 1. La Contraloría General de la República funcionará desconcentradamente en cada una de las regiones del país mediante contralorías regionales.
@@ -3341,11 +3335,14 @@ Las tesorerías del Estado no podrán efectuar ningún pago sino en virtud de un
 
 ### Artículo 357
 1. El Banco Central es un órgano autónomo con personalidad jurídica y patrimonio propio, de carácter técnico, encargado de formular y conducir la política monetaria.
+
 2. La ley regulará su organización, atribuciones y sistemas de control, así como la determinación de instancias de coordinación entre el Banco y el Gobierno.
 
 ### Artículo 358
 1. Le corresponde en especial al Banco Central, para contribuir al bienestar de la población, velar por la estabilidad de los precios y el normal funcionamiento de los pagos internos y externos.
+
 2. Para el cumplimiento de su objeto, el Banco Central deberá considerar la estabilidad financiera, la volatilidad cambiaria, la protección del empleo, el cuidado del medioambiente y del patrimonio natural y los principios que señalen la Constitución y la ley.
+
 3. El Banco, al adoptar sus decisiones, deberá tener presente la orientación general de la política económica del Gobierno.
 
 ### Artículo 359
@@ -3601,8 +3598,11 @@ Quienes integren la Corte Constitucional son independientes de todo otro poder y
 
 ### Artículo 385
 1. Un mínimo equivalente al diez por ciento de la ciudadanía correspondiente al último padrón electoral podrá presentar una propuesta de reforma constitucional para ser votada mediante referéndum nacional conjuntamente con la próxima elección.
+
 2. Existirá un plazo de ciento ochenta días desde su registro para que la propuesta sea conocida por la ciudadanía y pueda reunir los patrocinios exigidos.
+
 3. La propuesta de reforma constitucional se entenderá aprobada si alcanza la mayoría en la votación respectiva.
+
 4. Es deber del Poder Legislativo y de los órganos del Estado que correspondan dar adecuada publicidad a la o las propuestas de reforma que se someterán a referéndum.
 
 ## Procedimiento para elaborar una nueva Constitución
@@ -3626,8 +3626,7 @@ Quienes integren la Corte Constitucional son independientes de todo otro poder y
 3. Una vez redactada y entregada la propuesta de nueva Constitución a la autoridad competente, la Asamblea Constituyente se disolverá de pleno derecho.
 
 ### Artículo 388
-1. Entregada la propuesta de nueva Constitución, deberá convocarse a un referéndum para su aprobación o rechazo. Para que la propuesta sea
-aprobada, deberá obtener el voto favorable de más de la mitad de los sufragios válidamente emitidos.
+1. Entregada la propuesta de nueva Constitución, deberá convocarse a un referéndum para su aprobación o rechazo. Para que la propuesta sea aprobada, deberá obtener el voto favorable de más de la mitad de los sufragios válidamente emitidos.
 
 2. Si la propuesta de nueva Constitución fuera aprobada en el plebiscito, se procederá a su promulgación y correspondiente publicación.
 
@@ -3774,8 +3773,7 @@ Dentro de los cuatro años siguientes a la entrada en vigencia de esta Constituc
 2. El Poder Legislativo deberá concluir la tramitación de estos proyectos en un plazo no superior a veinticuatro meses contados desde la fecha de su presentación.
 
 ## Vigesimoctava
-1. Dentro del plazo de un año desde la entrada en vigencia de esta Constitución, el Presidente de la República convocará a una Comisión Territorial Indígena,
-la cual determinará catastros, elaborará planes, políticas, programas y presentará propuestas de acuerdos entre el Estado y los pueblos y naciones indígenas para la regularización, titulación, demarcación, reparación y restitución de tierras indígenas. Sus avances serán remitidos periódicamente a los órganos competentes para su progresiva implementación, obligándose estos a dar cuenta semestralmente de sus avances en la materia.
+1. Dentro del plazo de un año desde la entrada en vigencia de esta Constitución, el Presidente de la República convocará a una Comisión Territorial Indígena, la cual determinará catastros, elaborará planes, políticas, programas y presentará propuestas de acuerdos entre el Estado y los pueblos y naciones indígenas para la regularización, titulación, demarcación, reparación y restitución de tierras indígenas. Sus avances serán remitidos periódicamente a los órganos competentes para su progresiva implementación, obligándose estos a dar cuenta semestralmente de sus avances en la materia.
 
 2. La Comisión estará integrada por representantes de todos los pueblos y naciones indígenas, determinados por sus organizaciones representativas, a través de un proceso de participación indígena convocado de conformidad con el artículo 7 del Convenio 169 de la Organización Internacional del Trabajo. Dicha comisión estará integrada, además, por representantes del Estado y por personas de reconocida idoneidad, quienes serán nombradas por el Presidente de la República. El Estado deberá garantizar su debido financiamiento, infraestructura, acceso a la información necesaria, asistencia técnica, administrativa y, además, podrá convocar a organismos internacionales para desempeñarse como observadores garantes del proceso. La Comisión funcionará durante cuatro años, prorrogables por otros dos.
 
