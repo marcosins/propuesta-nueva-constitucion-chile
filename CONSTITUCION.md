@@ -1,5 +1,6 @@
 # Tabla de contenidos
 ## Resumida
+- [Preámbulo](#preámbulo)
 - [CAPÍTULO I: PRINCIPIOS Y DISPOSICIONES GENERALES](#capítulo-i-principios-y-disposiciones-generales)
 - [CAPÍTULO II: DERECHOS FUNDAMENTALES Y GARANTÍAS](#capítulo-ii-derechos-fundamentales-y-garantías)
 - [CAPÍTULO III: NATURALEZA Y MEDIOAMBIENTE](#capítulo-iii-naturaleza-y-medioambiente)
