@@ -1303,8 +1303,11 @@ Toda persona tiene derecho a las siguientes garantías procesales penales mínim
 1. Son chilenas y chilenos quienes:
 
    - a) Hayan nacido en el territorio de Chile. Se exceptúan las hijas y los hijos de personas extranjeras que se encuentren en Chile en servicio de su Gobierno, quienes, sin embargo, podrán optar por la nacionalidad chilena, en conformidad con la Constitución y las leyes.
+
    - b) Sean hijas o hijos de padre o madre chilenos nacidos en territorio extranjero.
+
    - c) Obtengan carta de nacionalización de conformidad con la ley.
+
    - d) Obtengan especial gracia de nacionalización por ley.
 
 2. No se exigirá renuncia a la nacionalidad anterior para obtener la carta de nacionalización chilena.
@@ -1322,7 +1325,9 @@ Toda persona tiene derecho a las siguientes garantías procesales penales mínim
 1. La nacionalidad chilena únicamente se pierde por las siguientes causales, y solo si con ello la persona no queda en condición de apátrida:
 
    - a) Renuncia voluntaria manifestada ante autoridad chilena competente.
+
    - b) Cancelación de la carta de nacionalización, salvo que se haya obtenido por declaración falsa o por fraude. Esto último no será aplicable a niñas, niños y adolescentes.
+
    - c) Revocación por ley de la nacionalización concedida por gracia.
 
 2. En el caso de la letra a), la nacionalidad podrá recuperarse por carta de nacionalización. En los restantes casos, podrá ser solo por ley.
@@ -1389,14 +1394,23 @@ Toda persona tiene derecho a las siguientes garantías procesales penales mínim
 ### Artículo 124
 1. La Defensoría del Pueblo tendrá las siguientes atribuciones:
    - a) Fiscalizar a los órganos del Estado y a las entidades privadas que ejerzan actividades de servicio o utilidad pública, en el cumplimiento de sus obligaciones en materia de derechos humanos.
+
    - b) Formular recomendaciones en las materias de su competencia.
+
    - c) Realizar acciones de seguimiento y monitoreo de las recomendaciones formuladas por los organismos internacionales en materia de derechos humanos y de las sentencias dictadas contra el Estado de Chile por tribunales internacionales de derechos humanos.
+
    - d) Tramitar y hacer seguimiento de los reclamos sobre vulneraciones de derechos humanos, y derivar en su caso.
+
    - e) Deducir acciones y recursos que esta Constitución y las leyes establecen, cuando se identifiquen patrones de violación de derechos humanos.
+
    - f) Interponer acciones constitucionales y legales ante los tribunales de justicia respecto de hechos que revistan carácter de crímenes de genocidio, de lesa humanidad o de guerra, tortura, desaparición forzada de personas, trata de personas y demás que establezca la ley.
+
    - g) Custodiar y preservar los antecedentes reunidos por comisiones de verdad, justicia, reparación y garantías de no repetición.
+
    - h) Recomendar la presentación de proyectos de ley en materias de su competencia
+
    - i) Promover la formación y educación en derechos humanos.
+
    - j) Las demás que le encomienden la Constitución y la ley.
 
 2. Todo órgano deberá colaborar con los requerimientos de la Defensoría del Pueblo, pudiendo acceder a la información necesaria y constituirse en dependencias de los órganos objeto de fiscalización, en conformidad con la ley.
@@ -1452,7 +1466,6 @@ El Estado, a través de un sistema nacional de áreas protegidas, único, integr
 Es deber del Estado regular y fomentar la gestión, reducción y valorización de residuos.
 
 ## Bienes comunes naturales
-
 
 ### Artículo 134
 1. Los bienes comunes naturales son elementos o componentes de la naturaleza sobre los cuales el Estado tiene un deber especial de custodia con el fin de asegurar los derechos de la naturaleza y el interés de las generaciones presentes y futuras.
@@ -1565,10 +1578,7 @@ sustentable de la actividad.
 
 ### Artículo 149
 La Defensoría de la Naturaleza tendrá las siguientes atribuciones:
-   - a) Fiscalizar a los órganos del Estado y a las entidades privadas en el
-cumplimiento de sus obligaciones en materia de derechos ambientales y
-derechos de la naturaleza.CAPÍTULO III – NATURALEZA Y MEDIOAMBIENTE
-51
+   - a) Fiscalizar a los órganos del Estado y a las entidades privadas en el cumplimiento de sus obligaciones en materia de derechos ambientales y derechos de la naturaleza.
 
    - b) Formular recomendaciones en las materias de su competencia.
 
@@ -2357,7 +2367,9 @@ El Poder Legislativo se compone del Congreso de Diputadas y Diputados y de la C�
 
 ### Artículo 252
 1. El Congreso de Diputadas y Diputados es un órgano deliberativo, paritario y plurinacional que representa al pueblo. Concurre a la formación de las leyes y ejerce las demás facultades encomendadas por la Constitución.
+
 2. El Congreso está integrado por un número no inferior a ciento cincuenta y cinco integrantes electos en votación directa por distritos electorales. Una ley de acuerdo regional determinará el número de integrantes, los distritos electorales y la forma de su elección, atendiendo al criterio de proporcionalidad.
+
 3. Los escaños reservados en el Congreso de Diputadas y Diputados para los pueblos y naciones indígenas serán elegidos en un distrito único nacional. Su número se define en forma proporcional a la población indígena en relación con la población total del país. Se deben adicionar al número total de integrantes del Congreso. La ley regulará los requisitos, los procedimientos y la distribución de los escaños reservados.
 
 ### Artículo 253
@@ -2423,7 +2435,6 @@ Son atribuciones exclusivas del Congreso de Diputadas y Diputados:
 5. La funcionaria o el funcionario declarado culpable será juzgado de acuerdo con las leyes por el tribunal competente, tanto para la aplicación de la pena señalada al delito, si lo hubiera, como para hacer efectiva la responsabilidad civil por los daños y perjuicios causados al Estado o a particulares.
 
 ## Disposiciones comunes al Poder Legislativo
-
 
 ### Artículo 256
 1. El Congreso de Diputadas y Diputados y la Cámara de las Regiones no podrán entrar en sesión ni adoptar acuerdos sin la concurrencia de la tercera parte de sus miembros en ejercicio. Toman sus decisiones por la mayoría de sus integrantes presentes, salvo que esta Constitución disponga un quorum diferente.
@@ -2502,6 +2513,7 @@ corporación respectiva o, en receso de esta, de su Mesa Directiva.
 Diputadas, diputados y representantes regionales se renuevan en su totalidad cada cuatro años y pueden ser reelegidos sucesivamente en el cargo hasta por un período. Para estos efectos se entenderá que han ejercido su cargo durante un período cuando han cumplido más de la mitad de su mandato.
 
 ## Sesiones conjuntas del Congreso de Diputadas y Diputados y de la Cámara de las Regiones
+
 ### Artículo 263
 El Congreso de Diputadas y Diputados y la Cámara de las Regiones se reunirán en sesión conjunta para:
    - a) Inaugurar el año legislativo.
