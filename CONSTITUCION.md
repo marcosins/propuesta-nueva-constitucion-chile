@@ -1,5 +1,20 @@
 # Tabla de contenidos
-- [Tabla de contenidos](#tabla-de-contenidos)
+## Resumida
+- [CAPÍTULO I: PRINCIPIOS Y DISPOSICIONES GENERALES](#capítulo-i-principios-y-disposiciones-generales)
+- [CAPÍTULO II: DERECHOS FUNDAMENTALES Y GARANTÍAS](#capítulo-ii-derechos-fundamentales-y-garantías)
+- [CAPÍTULO III: NATURALEZA Y MEDIOAMBIENTE](#capítulo-iii-naturaleza-y-medioambiente)
+- [CAPÍTULO IV: PARTICIPACIÓN DEMOCRÁTICA](#capítulo-iv-participación-democrática)
+- [CAPÍTULO V: BUEN GOBIERNO Y FUNCIÓN PÚBLICA](#capítulo-v-buen-gobierno-y-función-pública)
+- [CAPÍTULO VI: ESTADO REGIONAL Y ORGANIZACIÓN TERRITORIAL](#capítulo-vi-estado-regional-y-organización-territorial)
+- [CAPÍTULO VII: PODER LEGISLATIVO](#capítulo-vii-poder-legislativo)
+- [CAPÍTULO VIII: PODER EJECUTIVO](#capítulo-viii-poder-ejecutivo)
+- [CAPÍTULO IX: SISTEMAS DE JUSTICIA](#capítulo-ix-sistemas-de-justicia)
+- [CAPÍTULO X: ÓRGANOS AUTÓNOMOS CONSTITUCIONALES](#capítulo-x-órganos-autónomos-constitucionales)
+- [CAPÍTULO XI: REFORMA Y REEMPLAZO DE LA CONSTITUCIÓN](#capítulo-xi-reforma-y-reemplazo-de-la-constitución)
+- [DISPOSICIONES TRANSITORIAS](#disposiciones-transitorias)
+
+## Completa
+
 - [Preámbulo](#preámbulo)
 - [CAPÍTULO I: PRINCIPIOS Y DISPOSICIONES GENERALES](#capítulo-i-principios-y-disposiciones-generales)
     - [Artículo 1](#artículo-1)
